@@ -12,7 +12,7 @@
   
   _which means that someone with a growth mindset would achieve more and higher goals than a fixed mindset_
   
-  ## Reminders of how to keep your self in a growth mindset:
+  #### Reminders of how to keep your self in a growth mindset:
   * View challenges as oppurtunities
   * Try different learning tactics
   * Replace the word “failing” with the word learning
