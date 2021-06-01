@@ -36,4 +36,8 @@ it is a practice used by UX designers which allows them to define and plan the i
 2. Prepare your research for quick reference.
 3. Have your user flow mapped out.
 4. Sketch
-
+5. Add detail and test.
+   * Usability
+   * Simplicity
+   * Tooltips
+   * Trust-building elements

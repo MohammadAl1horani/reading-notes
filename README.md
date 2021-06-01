@@ -8,9 +8,6 @@
  1. [growth](growth)|
  2. [markdown](markdown)|
  3. [revision and cloud](RaC)|
-<<<<<<< HEAD
  4. [Structure web pages with HTML](read03)|
-=======
- 4. [read03](read03)
->>>>>>> 2a009623956604ce63b3ec5292bbf6245a7913af
+
 
