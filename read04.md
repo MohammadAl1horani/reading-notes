@@ -19,3 +19,7 @@
 2. Numbers: var x = 33 ;
 3. Opertators: +, -, *, /
 4. Booleans.
+
+---
+
+[HOME](https://mohammadal1horani.github.io/reading-notes/)
