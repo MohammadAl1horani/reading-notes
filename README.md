@@ -11,5 +11,6 @@ Table of Contents: |
 2. [markdown](markdown) |
 3. [revision and cloud](RaC) |
 4. [Structure web pages with HTML](read03) |
+5. [ Dynamic web pages with JavaScript](read04) |
 
 ---

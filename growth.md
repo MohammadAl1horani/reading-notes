@@ -18,5 +18,4 @@
   * Portray criticism as positive
 
 ---
-
 [HOME](https://mohammadal1horani.github.io/reading-notes/)
