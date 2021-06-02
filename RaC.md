@@ -18,3 +18,6 @@ it is a local software that use CLI, used to track files and make changes to the
 *git commit -m "text"*
 
 *git push origin main: to send the changes to github*
+---
+
+[HOME](https://mohammadal1horani.github.io/reading-notes/)

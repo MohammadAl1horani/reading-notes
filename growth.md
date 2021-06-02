@@ -16,3 +16,7 @@
   * Try different learning tactics
   * Replace the word “failing” with the word learning
   * Portray criticism as positive
+
+---
+
+[HOME](https://mohammadal1horani.github.io/reading-notes/)

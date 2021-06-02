@@ -23,5 +23,6 @@ it is a practice used by UX designers which allows them to define and plan the i
 
 ### **Semantics**
 **semantics** *in programming refers to the meaning of a piece of code*.
+---
 
-
+[HOME](https://mohammadal1horani.github.io/reading-notes/)
